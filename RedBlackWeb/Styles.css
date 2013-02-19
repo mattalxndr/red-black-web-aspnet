@@ -1,0 +1,11 @@
+﻿#form1 {
+    float: left;
+    width: 200px;
+}
+    #form1 textarea {
+        width: 100%;
+    }
+#Graph {
+    float: left;
+    margin-left: 20px;
+}
